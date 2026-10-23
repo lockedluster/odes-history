@@ -1,0 +1,9 @@
+{
+  "_note": "Miliastra Wonderland Odes history endpoint and gacha type codes.",
+  "path": "gacha_info/api/getBeyondGachaLog",
+  "types": {
+    "1000": "Standard Ode",
+    "2000": "Event Odes"
+  },
+  "pageSize": 5
+}
